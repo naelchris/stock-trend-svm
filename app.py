@@ -1,5 +1,4 @@
 from turtle import back
-from flask import Flask, request, jsonify, render_template
 from matplotlib import ticker
 import yfinance as yf
 import pandas as pd
